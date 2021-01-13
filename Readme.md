@@ -16,6 +16,7 @@ Used CappuccinoSDK by
 1. Go to Releases or compile it by yourself -> get the dll
 3. Open Geometry Dash
 4. Inject the dll into GD(using **Cheat Engine** or **GDDLLLoader by adafcaefc** or anything else)
+5. Go to the settings menu in-game and check "Enable Inversion".
 5. Profit!
 
 P.S. You can also use Stud_PE to make it load every time you open GD
