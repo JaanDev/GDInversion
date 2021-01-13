@@ -1,6 +1,7 @@
 # Geometry Dash Inversion Controls Mod
 ## About project
 Another project that I made in 5 minutes. Very simple.
+What it does - it swaps the player controls, now you need to release for holding and vice versa.
 ## Special thanks
 I'd like to thank a few people that helped me with developing this project.
 Inspired by Nelis
