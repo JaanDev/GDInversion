@@ -1,6 +1,6 @@
 # Geometry Dash Inversion Controls Mod
 ## About project
-Another project that I made in 5 minutes. Very simple thought
+Another project that I made in 5 minutes. Very simple.
 ## Special thanks
 I'd like to thank a few people that helped me with developing this project.
 Inspired by Nelis
